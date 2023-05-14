@@ -1,0 +1,13 @@
+{
+  "name": "sn-spark-kpi",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Vittorio Cellucci",
+    "email": "vittorio.cellucci@qlik.com"
+  },
+  "icon": "extension",
+  "preview": "",
+  "type": "visualization",
+  "supernova": true
+}
